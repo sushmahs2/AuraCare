@@ -91,8 +91,8 @@ st.markdown("""
         margin: 12px 0;
     }
 </style>
-""", unsafe_allowed_name=True, unsafe_allow_html=True)
-
+#  NEW FIXED LINE
+""", unsafe_allow_html=True)
 # ---------------------------------------------------------------------------
 # GEMINI CLIENT INITIALIZATION
 # ---------------------------------------------------------------------------
